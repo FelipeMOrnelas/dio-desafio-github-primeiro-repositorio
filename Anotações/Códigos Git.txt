@@ -1,0 +1,9 @@
+Verificar se está tudo certo - git status
+
+Para subir um arquivo
+
+1º Add as alterações - git add .
+
+2º Comentar - git commit -m "comentario"
+
+3º Dar um push - git push origin main
